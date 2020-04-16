@@ -1,5 +1,4 @@
-### javascript常用技巧及方法  
-#### 1. 格式化日期和时间
+## 1. 格式化日期和时间
 
 > 在 src/libs/function目录下创建 timeFormat.js文件
 ```javascript
@@ -40,7 +39,7 @@ timeFormat(Date.now(),'yyyy-mm-dd hh:MM')
 timeFormat(Date.now(),'yyyy-mm-dd')
 ```
 
-#### 2. 个性化时间转化
+## 2. 个性化时间转化
 
 > 使用该函数之前需要引入 timeFormat.js文件
 
