@@ -2,6 +2,7 @@ module.exports = {
     title: '王承毅',  // 设置网站标题
     description: '这是一个 vuepress 构建的个人站点,主要总结前端知识点',
     base: '/',
+    port:8888,
     themeConfig: {
         logo: '/imgs/personal.png',
         displayAllHeaders: true, // 默认值：false

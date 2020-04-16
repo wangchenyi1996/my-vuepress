@@ -3,7 +3,7 @@ home: true
 heroImage: /imgs/personal.png
 heroText: 我的个人博客
 tagline: 前端知识点
-actionText: 快速预览 →
+actionText: 快速学习 →
 actionLink: /javascript/
 features:
 - title: JavaScript知识点
